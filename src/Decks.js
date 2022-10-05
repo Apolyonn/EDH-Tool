@@ -1,3 +1,5 @@
+// Deck component for card 
+
 const Deck = ({deck}) => {
     const {
         title,

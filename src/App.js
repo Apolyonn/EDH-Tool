@@ -1,4 +1,4 @@
-
+import Deckcard from "./deckcard";
 
 
 function App() {
@@ -11,7 +11,9 @@ function App() {
           </h1>
         </div>  
       </header>
-
+    <div className="Card" style={{display: 'flex',  justifyContent:'center', alignItems:'center'}}>
+      <Deckcard/>
+    </div>
     </div>
   );
 }
