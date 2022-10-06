@@ -4,7 +4,7 @@ import Card from 'react-bootstrap/Card';
 function deckcard() {
   return (
     <Card style={{ width: '18rem' }}>
-      <Card.Img variant="top" src="public/plus.jpg" />
+      <Card.Img variant="top" img src={require('./plus.jpg')} /> 
       <Card.Body>
         <Card.Title>Card Title</Card.Title>
         <Card.Text>
