@@ -1,4 +1,4 @@
-Organizing tool for MtG decks made with React. Next up is switching to next.js .
+Organizing tool for MtG decks made with React. Next up is switching to next.js.
 
 # Getting Started with Create React App
 
